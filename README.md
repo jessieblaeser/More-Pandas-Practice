@@ -1,6 +1,6 @@
 # More Pandas Basics 
 
-Slightly more advanced Pandas practice than what is found in [Pandas Basics](https://github.com/jessieblaeser/Pandas-Basics) involving:
+Slightly more advanced Pandas practice than what is found in [Pandas Basics](https://github.com/jessieblaeser/Pandas-Basics), involving:
 
 * Isolating NaN values 
 * Changing data types
